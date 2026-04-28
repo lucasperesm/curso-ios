@@ -1,0 +1,10 @@
+{
+  "category": "Programação",
+  "question": "Qual linguagem é usada para iOS?",
+  "answers": [
+    { "title": "Java", "isCorrect": false },
+    { "title": "Swift", "isCorrect": true },
+    { "title": "Python", "isCorrect": false },
+    { "title": "C#", "isCorrect": false }
+  ]
+}
